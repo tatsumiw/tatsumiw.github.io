@@ -2,7 +2,7 @@
 title: Tatsumi Blog
 SEOTitle: Tatsumi的博客 | Tatsumi Blog
 header-img: img/home-bg.jpg
-email: 13682288507@163.com
+email: m13682288507@163.com
 description: "关于程序与设计、黑客与画家 | Tatsumi"
 keyword: "Tatsumi, Tatsumi的博客, Tatsumi Blog, 博客, 个人网站, 互联网"
 url: "https://wtatsumi.com/"              # your host, for absolute URL
@@ -59,7 +59,8 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux
+disqus_username: tatsumi
 
 # Netease settings
 netease_comment: false
@@ -71,15 +72,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Only those who will risk going too far can possibly find out how far one can go<br>只有不怕走太过头的人能发掘自己到底可以走多远"
+sidebar-avatar: /img/avatar-tatsumi-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -106,31 +107,7 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "Hux Blog",
+        href: "https://huangxuan.me/"
     }
 ]
