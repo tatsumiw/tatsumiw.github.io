@@ -1,6 +1,6 @@
 # Site settings
 title: Tatsumi Blog
-SEOTitle: Tatsumi的博客|Tatsumi Blog
+SEOTitle: Tatsumi Blog
 header-img: img/home-bg.jpg
 email: m13682288507@163.com
 description: "黑客与画家 | Tatsumi"
@@ -14,12 +14,13 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username:     tatsumi
-#zhihu_username:     huxpro
+#zhihu_username:     tatsumi
 github_username:     tatsumiw
 oschina_username:    wtatsumi
 music_username:      61056276
-#twitter_username:   huxpro
-#facebook_username:  huxpro
+bililibi_username:   242692936
+#twitter_username:   tatsumi
+#facebook_username:  tatsumi
 #linkedin_username:  firstname-lastname-idxxxx
 
 
