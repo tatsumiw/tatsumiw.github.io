@@ -1,1 +1,1 @@
-搭建个人博客 jekyll 的主题 from [huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate) 主题，原作者为 [黄玄](http://huangxuan.me/)。
+jeklly搭建个人博客 主题 from https://github.com/Huxpro/huxpro.github.io ，原作者为 [黄玄](http://huangxuan.me/)。
