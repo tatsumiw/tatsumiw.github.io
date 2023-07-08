@@ -1,6 +1,6 @@
 ##### About Owner
 
-Hi, I'm Tatsumi,a data mining engineer and data analyst 
+Hi, I'm Edwin,a data analyst 
 
 Love thinking, music, tourism
 
